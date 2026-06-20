@@ -125,26 +125,3 @@ gesture_ai_pro/
 *Press **ESC** on your keyboard inside the window to exit the application clean.*
 
 ---
-
-## Portfolio Showcase Material
-
-### Resume Project Description
-> **GestureAI Pro — Intelligent Gesture-Controlled Whiteboard**
-> * Developed a real-time gesture-controlled drawing application in Python utilizing OpenCV and MediaPipe, wrapping processing inside a modular OOP architecture.
-> * Engineered a vector-based drawing engine managing coordinates in-memory, supporting unlimited Undo/Redo stacks and dynamic theme toggles (Dark/Light mode) without raster degradation.
-> * Implemented Ramer-Douglas-Peucker (`approxPolyDP`) and contour standard deviation algorithms to achieve real-time geometric shape recognition, automatically beautifying freehand sketches into precise circles, rectangles, triangles, and lines.
-> * Programmed a moving-average filter and linear coordinate interpolation to eliminate shaky hand artifacts, optimizing drawing latency to sustain stable 30+ FPS capture.
-> * Designed a glassmorphic HUD toolbar, statistics dashboards, and animated alpha-fading toast alerts using custom OpenCV drawing calls.
-
-### LinkedIn Project Post Summary
-> 🚀 **Excited to share my latest portfolio project: GestureAI Pro!**
-> 
-> GestureAI Pro is an intelligent, real-time gesture-controlled virtual whiteboard built in Python using OpenCV and MediaPipe. Unlike simple tutorial projects, GestureAI Pro operates as a professional software product with a complete modular OOP architecture and high-performance design:
-> 
-> 🔹 **Vector Stroke Engine**: Stores drawings as geometric nodes, enabling infinite Undo/Redo stacks and instant theme switching (Dark ⇆ Light).
-> 🔹 **AI Shape Beautification**: Uses contour analysis and custom approximation filters to recognize rough hand sketches and instantly replace them with perfect circles, triangles, rectangles, or straight lines.
-> 🔹 **Precision Smoothers**: Integrates moving-average filters and interpolation algorithms to remove shaky hand tremors for clean, natural-looking strokes.
-> 🔹 **Modern Glassmorphic UI**: Features a semi-transparent HUD toolbar, session statistics dashboard (tracking time, strokes, shapes recognized), and smooth fading notification alerts.
-> 🔹 **Dynamic Controls**: Includes gesture lock, pinch-to-click, and dynamic brush resizing using real-time hand coordinates.
-> 
-> Check out the project architecture and try it yourself: [README.md](file:///C:/Users/Ayush%20Srivastava/.gemini/antigravity-ide/scratch/gesture_ai_pro/README.md)
